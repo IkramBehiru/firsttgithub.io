@@ -50,3 +50,4 @@ Service and leadership
 * Serve as amontor for Nedamco Africa Acaday cloud Technology students.
 * Serve as Community Training Assistant.
 * Volunteer in Ethiopian Minstry of peace.
+* Volunteer at Examplary Youth Association.
