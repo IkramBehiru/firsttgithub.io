@@ -44,11 +44,9 @@ Skills
 * Digital Markating
 * Project Management
 * UI/UX Design
-
-
-  
-
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Serve as amontor for Nedamco Africa Acaday cloud Technology students.
+* Serve as Community Training Assistant.
+* Volunteer in Ethiopian Minstry of peace.
