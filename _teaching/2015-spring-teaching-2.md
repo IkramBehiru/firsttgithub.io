@@ -1,7 +1,7 @@
 ---
 title: "Nation ID Supervisor"
 collection: teaching
-type: "Workshop"
+type: "Training"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Prime Minster Office, National ID Ethiopia"
 date: 2024-02-01
