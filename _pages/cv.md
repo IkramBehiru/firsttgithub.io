@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /[resume](https://github.com/IkramBehiru/IkramBehiru.github.io/blob/master/files/Ikram%20Behiru%20cv%20%20(1).pdf)
 ---
 
 {% include base_path %}
