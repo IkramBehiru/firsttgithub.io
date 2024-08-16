@@ -21,7 +21,7 @@ repository               : "https://github.com/IkramBehiru/ikrambehiruu.github.i
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Ikram Behiru Nesiru"
   pronouns         : # example: "she/her"  
   bio              : "MSC Computer Engineering Student at Addis Ababa University."
