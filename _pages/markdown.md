@@ -19,7 +19,7 @@ redirect_from:
   * _teaching/
   * _talks/
 * Footer: _includes/footer.html
-* Static files (like PDFs): /files/
+* Static files (like PDFs): /files/Ikram Behiru(1).pdf
 * Profile image (can set in _config.yml): images/profile.jpg
 
 ## Tips and hints
