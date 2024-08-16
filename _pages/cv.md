@@ -4,10 +4,12 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /[resume](https://github.com/IkramBehiru/IkramBehiru.github.io/blob/master/files/Ikram%20Behiru%20cv%20%20(1).pdf)
+  - /resume
 ---
 
 {% include base_path %}
+[Get Full CV Here.](https://drive.google.com/file/d/1EResH2T19XlumPTMIn_zvt9B8khD_eTo/view?usp=drive_link)
+
 
 Education
 ======
