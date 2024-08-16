@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Nation ID Supervisor"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Prime Minster Office, National ID Ethiopia"
+date: 2024-02-01
+location: "Addis Ababa, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Supervise the National ID registration program and train the registration officers.
 
 Heading 1
 ======
