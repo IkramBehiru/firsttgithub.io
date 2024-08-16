@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Azure Adminstrator Certfication validate my ablilty to manage and maintain Microsoft Services, including storage, security, networking and Compute <br/>
 collection: portfolio
 ---
 
