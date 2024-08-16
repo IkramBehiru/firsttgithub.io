@@ -14,8 +14,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Certifications"
+    url: /Certifications/
     
   - title: "CV"
     url: /cv/
