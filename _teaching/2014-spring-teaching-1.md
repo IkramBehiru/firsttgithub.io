@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Community Training Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "AWS Cloud Practitioner"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Nedamco Africa"
+date: 2024-01-01
+location: "Addis Ababa, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have got some experiance. this includes teaching key concepts , best practices, and  hands on skills need to effectivly word with cloud platforms like microsoft azure and AWS.
 
 Heading 1
 ======
