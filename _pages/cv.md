@@ -14,10 +14,9 @@ redirect_from:
 Education
 ======
 
-* M.S. in Computer Enginering, Addis Ababa University, 2025(expected)
+* M.S. in Computer Enginering, Addis Ababa University, 2025 (expected)
 * B.S. in Electromechanical Engineering, Hawassa University, 2021
 * B.S. in Computer Science, Hawassa University, 2020(expected)
-
 
 
 
@@ -25,13 +24,13 @@ Work experience
 ======
 * 2022 - 2024: Software Developer
   * AFRICOM Technologies Plc.
-  * Duties includes:  Writi clear and code based on spesification and requirement, Software Development and Quality Assurance analyst.
+  * Duties includes:  Write clear and code based on spesification and requirement, Software Development and Quality Assurance analyst.
   * Supervisor: CTO
 
 
 * 2022 - 2024: Cloud Consultant
   * Nedamco Africa Cloud Innitiative plc.
-  * Duties included: provide and configure cloud specially AWS and Microsoft Azure  services and infrastractur component.
+  * Duties included: provide and configure cloud services  specially AWS and Microsoft Azure and infrastractur component.
   
 
 * 2023 -2024: Community Training Assistant
@@ -43,7 +42,7 @@ Work experience
   
 Skills
 ======
-* Cloud Technologise (Azure and AWS)
+* Cloud Technologies (Azure and AWS)
 * Web Development Skill
   * Programming (HTML, CSS, JavaScript, NodeJs and Python)
 * Data Analysis (Tableau, advanced Excel and PowerBI)
@@ -58,7 +57,7 @@ Skills
   
 Service and leadership
 ======
-* Serve as amontor for Nedamco Africa Acaday cloud Technology students.
+* Serve as a mentor for Nedamco Africa Acaday cloud Technology students.
 * Serve as Community Training Assistant.
-* Volunteer in Ethiopian Minstry of peace.
+* Volunteer at Ethiopian Minstry of peace.
 * Volunteer at Examplary Youth Association.
