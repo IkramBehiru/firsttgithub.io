@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 
-Iam a MSC student ayt Addis Ababa University in Computer Enginering Departement. I finished my Bachelor of science degree at Hawassa University , Ethiopia in Electromechanical Engineering and Computer Science in 2021.
-
-
+Iam a MSC student at Addis Ababa University in Computer Enginering Departement. I finished my Bachelor of science degree at Hawassa University , Ethiopia in Electromechanical Engineering and Computer Science in 2021.
 
 News
 ======
